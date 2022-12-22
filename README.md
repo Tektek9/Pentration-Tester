@@ -1,2 +1,2 @@
 # Pentration-Tester
-Berisikan Dokumentasi Pentest
+Berisikan Dokumentasi Pentest menggunakan Kali Linux
